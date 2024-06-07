@@ -17,7 +17,7 @@ body, html {
 .titulo{
     margin-bottom: 4%;
     font-family: cursive;
-    font-size: 5vw;
+    font-size: 13vw;
 }
 .container.expand {
     transform: scale(1.5);
